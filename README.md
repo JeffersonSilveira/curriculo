@@ -1,2 +1,4 @@
-# Curriculo
-##Jefferson Silveira da Rosa https://br.linkedin.com/in/jefferson-silveira-da-rosa-68090544 jeffersonsilveira30@gmail.com +55 (51) 99177-8090
+##Francisco Lopes
+[http://nosubstance.me](http://nosubstance.me) `francisco @ oblita.com` `+55 (11) 98071-9565`
+
+C - C++ - Python - Go - Rust - PureScript - ...
